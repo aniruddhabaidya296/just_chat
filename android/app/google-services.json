@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "117002350308",
+    "project_id": "just-chat-app-f3954",
+    "storage_bucket": "just-chat-app-f3954.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117002350308:android:80f06f27b069dbb48506f1",
+        "android_client_info": {
+          "package_name": "com.handsomerob.justchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117002350308-erm9m8vadkjnb3de1j9bc8uo9dlj88mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.handsomerob.justchat",
+            "certificate_hash": "05905844f576fb82a994e8ba0e3245b88e8b1152"
+          }
+        },
+        {
+          "client_id": "117002350308-b5she8c6a6r7l46umlinvanr8hk4h957.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE8qnjShA1j6udaDDIGwKvlURv5LC1k64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117002350308-b5she8c6a6r7l46umlinvanr8hk4h957.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
